@@ -10,12 +10,3 @@ them.
 Here are the [Official LavaSurge Page](http://projectkorra.com/resources/lavasurge.242/) and the [Official LavaSlap 
 Page](http://projectkorra.com/resources/lavaslap.241/)
 
-####Gifs
-#####LavaSlap:
- 
-![](https://embed.gyazo.com/b3422adf5c4edd929306b0e303944e03.gif)
-
-#####LavaSurge: Gif Needed
-
-#####FerroKinesis: Gif Needed
-
